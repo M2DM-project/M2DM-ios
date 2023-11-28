@@ -1,0 +1,6 @@
+framework module Pods_m2dm {
+  umbrella header "Pods-m2dm-umbrella.h"
+
+  export *
+  module * { export * }
+}
